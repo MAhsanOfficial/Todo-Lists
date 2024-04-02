@@ -1,6 +1,6 @@
 {
   "name": "mahsan01_todo_lists",
-  "version": "2.2.2",
+  "version": "3.2.2",
   "description": "this is my todo list with using inquirer",
   "main": "index.js",
   "type": "module",
