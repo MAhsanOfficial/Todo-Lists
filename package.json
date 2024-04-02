@@ -1,9 +1,10 @@
 {
   "name": "mahsan01_todo_lists",
-  "version": "1.0.0",
+  "version": "2.2.2",
   "description": "this is my todo list with using inquirer",
   "main": "index.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
